@@ -1,0 +1,11 @@
+
+Scenario: Predicting Customer Churn in a Telecom Company
+
+Background:
+A telecom company wants to predict which customers are likely to leave their service (churn). By predicting churn, the company can take action to retain customers before they decide to leave.
+
+Dataset:
+
+We’ll use a simplified version of a telecom churn dataset. Each record in the dataset represents a customer, and it contains information like customer tenure, monthly charges, contract type, and whether they’ve churned (left the service) or not.
+
+url = "https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv"
