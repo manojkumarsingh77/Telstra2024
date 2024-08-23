@@ -1,0 +1,69 @@
+Example: Deploying an ML Model with Flask
+
+from flask import Flask, request, jsonify
+import pickle
+
+# Load the trained model
+model = pickle.load(open('model.pkl', 'rb'))
+
+app = Flask(__name__)
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    data = request.get_json(force=True)
+    prediction = model.predict([data['features']])
+    return jsonify({'prediction': prediction.tolist()})
+
+if __name__ == '__main__':
+    app.run(debug=True)
+
+
+Example: Deploying an ML Model with Django
+
+	1.	models.py: Define your ML model as a Django model.
+	2.	views.py: Create a view to handle predictions.
+
+# views.py
+from django.http import JsonResponse
+import pickle
+from django.views.decorators.csrf import csrf_exempt
+import json
+
+# Load the trained model
+model = pickle.load(open('model.pkl', 'rb'))
+
+@csrf_exempt
+def predict(request):
+    if request.method == 'POST':
+        data = json.loads(request.body)
+        prediction = model.predict([data['features']])
+        return JsonResponse({'prediction': prediction.tolist()})
+
+urls.py: Map the view to a URL.
+# urls.py
+from django.urls import path
+from .views import predict
+
+urlpatterns = [
+    path('predict/', predict),
+]
+
+Example: Deploying an ML Model with FastAPI
+
+from fastapi import FastAPI
+from pydantic import BaseModel
+import pickle
+
+# Load the trained model
+model = pickle.load(open('model.pkl', 'rb'))
+
+app = FastAPI()
+
+# Define request body schema
+class ModelInput(BaseModel):
+    features: list
+
+@app.post('/predict/')
+async def predict(input: ModelInput):
+    prediction = model.predict([input.features])
+    return {'prediction': prediction.tolist()}
