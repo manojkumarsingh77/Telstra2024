@@ -1,0 +1,63 @@
+1. Matplotlib Exercises
+
+Exercise 1: Customer Distribution by Service Plan
+
+	•	Task: Create a bar chart showing the distribution of customers across different service plans (e.g., Basic, Standard, Premium).
+	•	Goal: Understand the popularity of different service plans.
+
+Exercise 2: Monthly Data Usage
+
+	•	Task: Plot a histogram of the monthly data usage of customers.
+	•	Goal: Identify the most common data usage patterns.
+Exercise 3: Average Call Duration by Day
+
+	•	Task: Plot a line graph showing the average call duration for each day of the week.
+	•	Goal: Determine which days customers tend to have longer calls.
+Exercise 4: Churn Rate by Age Group
+
+	•	Task: Create a pie chart showing the churn rate by different age groups.
+	•	Goal: Visualize which age group has the highest churn rate.
+
+2. Seaborn Exercises
+
+Exercise 1: Correlation Heatmap
+
+	•	Task: Generate a heatmap to visualize the correlation between different numerical features (e.g., call duration, data usage, bill amount).
+	•	Goal: Identify which features are highly correlated.
+
+Exercise 2: Customer Age Distribution by Service Plan
+
+	•	Task: Create a box plot showing the distribution of customer ages across different service plans.
+	•	Goal: Understand the age demographics of each service plan.
+
+Exercise 3: Data Usage vs. Call Duration
+
+	•	Task: Create a scatter plot with a regression line showing the relationship between monthly data usage and average call duration.
+	•	Goal: Explore whether customers who use more data tend to have longer call durations.
+
+Exercise 4: Churn Rate by Service Plan
+
+	•	Task: Create a bar plot showing the churn rate for each service plan.
+	•	Goal: Visualize which service plan has the highest churn rate.
+
+3. Plotly Exercises
+
+Exercise 1: Interactive Customer Location Map
+
+	•	Task: Create an interactive map showing customer locations based on their latitude and longitude.
+	•	Goal: Visualize the geographic distribution of customers.
+
+Exercise 2: Interactive 3D Scatter Plot of Data Usage
+
+	•	Task: Create an interactive 3D scatter plot showing the relationship between data usage, call duration, and monthly bill amount.
+	•	Goal: Explore the relationship between key usage metrics.
+
+Exercise 3: Interactive Bar Chart of Service Plan Popularity
+
+	•	Task: Create an interactive bar chart showing the number of customers per service plan.
+	•	Goal: Allow users to explore the data interactively by hovering over the bars.
+
+Exercise 4: Interactive Line Chart of Monthly Revenue
+
+	•	Task: Create an interactive line chart showing the total monthly revenue over time.
+	•	Goal: Allow users to explore trends in revenue interactively.
