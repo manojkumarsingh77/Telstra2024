@@ -1,0 +1,6 @@
+# Sample data
+products = [
+    {"PartitionKey": "Product", "RowKey": "1", "product_name": "Product A", "quantity": 50},
+    {"PartitionKey": "Product", "RowKey": "2", "product_name": "Product B", "quantity": 150},
+    {"PartitionKey": "Product", "RowKey": "3", "product_name": "Product C", "quantity": 20},
+]
