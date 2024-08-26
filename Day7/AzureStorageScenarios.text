@@ -1,0 +1,50 @@
+1. Azure Blob Storage: Storing and Analyzing Call Data Records (CDRs)
+
+Scenario:
+
+A telecommunications company needs to store a massive volume of Call Data Records (CDRs) generated daily. These records will be used for analytics to monitor call quality, usage patterns, and detect any fraudulent activities.
+
+
+Dataset:
+
+	•	CDR dataset in CSV format, containing fields like call_id, caller_id, receiver_id, call_start_time, call_end_time, call_duration, call_type.
+
+2. Azure File Storage: Centralized Repository for Network Configuration Files
+
+Scenario:
+
+The network operations team needs a centralized storage solution for configuration files of network devices (routers, switches, etc.) to ensure consistency and easy access for network engineers.
+
+
+Dataset:
+
+	•	Configuration files in text format for various network devices.
+
+3. Azure Queue Storage: Asynchronous Processing of Customer Support Tickets
+
+Scenario:
+
+A telecommunications company needs to handle customer support requests efficiently. Each support request is placed in a queue and processed asynchronously by different teams (technical support, billing, etc.).
+
+
+Dataset:
+
+	•	JSON messages representing customer support tickets.
+
+4. Azure Table Storage: Storing Customer Preferences for Targeted Marketing
+
+Scenario:
+
+The marketing team wants to store customer preferences and behaviors to target specific customer segments for personalized offers. This data needs to be accessed quickly and queried based on customer attributes.
+
+
+
+
+
+https://azure.microsoft.com/en-in/products/storage/storage-explorer
+
+az storage account create --name mystorageaccount --resource-group myResourceGroup --location eastus --sku Standard_LRS
+
+az storage container create --name cdr-logs --account-name mystorageaccount
+
+az storage blob upload --account-name mystorageaccount --container-name cdr-logs --name cdr_data_202408.csv --file /path/to/cdr_data_202408.csv
