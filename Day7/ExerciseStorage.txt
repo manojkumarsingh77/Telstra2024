@@ -65,6 +65,7 @@ task_id,project_name,completion_time
 4,Project C,2024-08-19 13:00:00
 5,Project B,2024-08-19 14:00:00
 
+Business Queries with Visualizations:
 	1.	Total Sales per Product Over the Past Week - Bar Chart
 	2.	Support Requests by Department - Pie Chart
 	3.	Low Stock Products - Bar Chart
