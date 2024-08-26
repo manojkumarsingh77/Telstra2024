@@ -1,0 +1,72 @@
+Exercise 1: Sales Data Storage and Reporting in Azure Blob Storage
+
+Business Scenario:
+
+Your company stores daily sales records in Azure Blob Storage. You need to query the data to report total sales per product over the past week.
+
+
+product_id,product_name,sales_amount,sale_date
+1,Product A,100,2024-08-19
+2,Product B,150,2024-08-19
+1,Product A,200,2024-08-20
+3,Product C,250,2024-08-20
+2,Product B,100,2024-08-21
+1,Product A,300,2024-08-21
+
+Exercise 2: Customer Support Request Queue Processing in Azure Queue Storage
+
+Business Scenario:
+
+Your company uses Azure Queue Storage to manage customer support requests. You need to process and report the number of requests received per department.
+request_id,department,request_time
+1,Support,2024-08-19 09:00:00
+2,Sales,2024-08-19 09:30:00
+3,Support,2024-08-19 10:00:00
+4,Billing,2024-08-19 10:30:00
+5,Sales,2024-08-19 11:00:00
+
+
+
+Exercise 3: Product Inventory Management in Azure Table Storage
+
+Business Scenario:
+
+Your company manages product inventory using Azure Table Storage. You need to query the inventory data to report products that are low in stock.
+
+request_id,department,request_time
+1,Support,2024-08-19 09:00:00
+2,Sales,2024-08-19 09:30:00
+3,Support,2024-08-19 10:00:00
+4,Billing,2024-08-19 10:30:00
+5,Sales,2024-08-19 11:00:00
+
+Exercise 4: Marketing Campaign Analysis Using Azure Blob Storage
+
+Business Scenario:
+
+Your company stores marketing campaign results in Azure Blob Storage. You need to analyze the campaign data to report the performance of each campaign.
+
+campaign_id,campaign_name,clicks,impressions,conversion_rate
+1,Campaign A,100,1000,0.05
+2,Campaign B,200,1500,0.10
+3,Campaign C,150,1200,0.08
+
+
+Exercise 5: Task Queue Management in Azure Queue Storage
+
+Business Scenario:
+
+Your company manages tasks for different projects using Azure Queue Storage. You need to analyze and report the number of tasks completed per project.
+
+task_id,project_name,completion_time
+1,Project A,2024-08-19 10:00:00
+2,Project B,2024-08-19 11:00:00
+3,Project A,2024-08-19 12:00:00
+4,Project C,2024-08-19 13:00:00
+5,Project B,2024-08-19 14:00:00
+
+	1.	Total Sales per Product Over the Past Week - Bar Chart
+	2.	Support Requests by Department - Pie Chart
+	3.	Low Stock Products - Bar Chart
+	4.	Campaign Performance (Clicks and Impressions) - Grouped Bar Chart
+	5.	Tasks Completed per Project - Bar Chart
