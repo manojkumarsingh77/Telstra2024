@@ -1,0 +1,84 @@
+Step 1: Setup Azure SQL Database
+If you haven't already set up an Azure SQL Database, you can do so via the Azure portal. Note down the following details:
+
+Server Name
+Database Name
+Server Admin Login
+Server Admin Password
+Server URL
+
+Step 2: Install Necessary Python Packages in Google Colab
+To interact with Azure SQL DB from Google Colab, you will need to install the pyodbc and pandas packages. Use the following commands:
+!pip install pyodbc pandas
+
+Step 3: Establish Connection to Azure SQL Database
+Create a connection string to connect to your Azure SQL Database using pyodbc.
+
+import pyodbc
+
+# Define your Azure SQL Database connection parameters
+server = '<your-server-name>.database.windows.net'
+database = '<your-database-name>'
+username = '<your-username>'
+password = '<your-password>'
+
+# Create the connection string
+conn_str = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={server};DATABASE={database};UID={username};PWD={password}'
+
+# Establish a connection
+conn = pyodbc.connect(conn_str)
+
+Step 4: Insert Data into Azure SQL DB
+You can create a function to insert data into your database. For example, if you have a Customers table, you can insert a row using the following function:
+
+import pandas as pd
+from time import sleep
+
+def insert_data(conn, data):
+    cursor = conn.cursor()
+    insert_query = "INSERT INTO Customers (FirstName, LastName, Email, PhoneNumber, RegistrationDate, Status) VALUES (?, ?, ?, ?, ?, ?)"
+    cursor.execute(insert_query, data)
+    conn.commit()
+    cursor.close()
+
+# Example data to insert
+data = ('John', 'Doe', 'john.doe@example.com', '1234567890', '2024-08-28', 'Active')
+
+# Insert data every 30 seconds
+while True:
+    insert_data(conn, data)
+    print("Data inserted successfully!")
+    sleep(30)  # Wait for 30 seconds before the next insert
+
+Step 5: Automate Data Insertion Using a Cron Job
+To run the data insertion process as a cron job:
+
+Create a Python Script:
+
+Save the above code into a Python script file (e.g., insert_data.py) in Google Colab.
+Use python-crontab to Schedule the Job:
+
+Unfortunately, Google Colab doesn't support cron jobs directly. However, you can simulate a cron job by using a loop in your script to continuously run the task at intervals.
+
+Step 6: Execute a .sql Script Using Google Colab
+If you have a .sql script that you want to execute, you can do so by reading the file and executing it within the Colab environment.
+
+
+# Load and execute a .sql script
+with open('/path/to/your/script.sql', 'r') as file:
+    sql_script = file.read()
+
+# Execute the SQL script
+cursor = conn.cursor()
+cursor.execute(sql_script)
+conn.commit()
+cursor.close()
+
+print("SQL script executed successfully!")
+
+Step 7: Upload .sql Script to Google Colab
+Upload your .sql script to Google Colab and reference its path in the code above.
+
+from google.colab import files
+
+uploaded = files.upload()  # Upload your .sql file from your local machine
