@@ -1,0 +1,12 @@
+10 Queries:
+1. Retrieve all customer information who registered in 2023.
+2. List the full names and emails of customers who have had more than one contact. 
+3. Find the contact types and counts for a specific customer (e.g., CustomerID = 1).
+4. List customers who have not been contacted in the last 6 months.
+5. Get the most recent contact date for each customer.
+6. Find customers who have reported a 'network issue'.
+7. Count the number of contacts made via 'Phone'.
+8. List customers with the first name 'John' and their contact details.
+9. Find the average number of contacts per customer.
+10. Identify customers who have never been contacted.
+
