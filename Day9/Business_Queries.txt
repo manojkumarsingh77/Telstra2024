@@ -1,0 +1,106 @@
+Business Queries
+1.	List all customers who have active subscriptions.
+
+
+2.	Retrieve the total data usage for each subscription.
+
+
+3.	Find the customers with unpaid bills.
+
+
+4.	Get the top 5 customers by total amount due.
+
+
+5.	List all subscriptions that have expired.
+
+
+6.	Calculate the average data usage per customer.
+
+
+7.	Find customers who have not used any data in the last month.
+
+8.	Identify customers with more than one active subscription.
+
+
+9.	Get the total number of active customers.
+
+10.	List all customers who registered in the last year.
+
+11.	Calculate the total amount due for all unpaid bills.
+
+
+12.	Find the most common plan type among customers.
+
+13.	Retrieve customer details along with their most recent subscription start date.
+
+
+14.	Get the total number of subscriptions for each plan type.
+
+15.	Identify customers who have never had an unpaid bill.
+
+16.	Calculate the average billing amount for postpaid subscriptions.
+
+17.	List customers with more than 10GB of total data usage.
+
+
+18.	Get the total number of customers for each status ('Active', 'Inactive').
+
+
+19.	Find subscriptions that have been active for more than 2 years.
+
+
+20.	List all customers who have switched from 'Prepaid' to 'Postpaid'.
+
+21.	Get the total data usage and average minutes used per subscription.
+
+
+22.	Identify customers who have paid more than $500 in total.
+
+
+23.	List the top 10 customers by total minutes used.
+
+24.	Calculate the average duration of subscriptions (in months).
+
+
+25.	Find customers with at least one 'Inactive' subscription.
+
+26.	Get the total amount due for each customer.
+
+
+27.	Identify customers who have never used more than 1GB of data in a single day.
+
+28.	List all customers who have paid their last bill.
+
+
+29.	Get the number of customers who have never had an 'Inactive' subscription.
+
+
+
+30.	Retrieve the customer details with the highest total amount due.
+
+31.	Identify customers who have not registered any usage in the past 6 months.
+
+
+32.	List customers who have been active for more than 3 years.
+
+
+33.	Calculate the total revenue from all paid bills.
+
+34.	Get the average minutes used per subscription in the last year.
+
+
+35.	Find the customer with the most active subscriptions.
+
+
+36.	List all customers who have upgraded their plan from 'Prepaid' to 'Postpaid'.
+
+
+37.	Identify customers who have never made a late payment.
+
+38.	Get the total number of bills generated in the last month.
+
+
+39.	List customers who have changed their phone number in the last year.
+
+
+40.	Find the total number of customers who have never upgraded their plan.
