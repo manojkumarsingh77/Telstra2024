@@ -1,0 +1,11 @@
+DML Operations
+1. Insert a new customer into the Customers table:
+2. Update the PlanType of all 'Prepaid' subscriptions to 'Postpaid':
+3. Delete all records of customers who registered more than 5 years ago:
+4. Truncate the UsageDetails table:
+5. Insert multiple records into the Billing table:
+6. Update the Status of all inactive subscriptions to 'Cancelled':
+7. Delete duplicate records in the Customers table based on Email:
+8. Insert data into the UsageDetails table for a specific customer:
+9. Truncate the Billing table:
+10. Update the PhoneNumber of a specific customer:
