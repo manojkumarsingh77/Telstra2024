@@ -1,0 +1,10 @@
+10 Queries:
+1. List all customers who have a postpaid subscription.
+2. Find the total data usage for a specific customer (e.g., CustomerID = 1).
+3. Get the billing details for customers with unpaid bills.
+4. Calculate the average amount due across all bills.
+5. List the top 5 customers with the highest data usage in a single day.
+6. Identify customers who used more than 1GB of data in any single day.
+7. List the billing history for a specific subscription (e.g., SubscriptionID = 1).
+8.Find customers who have more than one subscription.
+10. List customers whose subscriptions have expired.
