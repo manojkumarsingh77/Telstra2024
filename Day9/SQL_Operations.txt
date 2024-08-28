@@ -1,0 +1,13 @@
+
+SQL Operations
+DDL Operations
+1. Add a new column to the Customers table to store the customer type (e.g., 'Individual', 'Corporate'):
+2.Drop the MessagesSent column from the UsageDetails table:
+3.Create an index on the Email column in the Customers table:
+4. Revoke INSERT permissions from a specific user:
+5.Grant SELECT permissions on the Billing table to a specific role:
+6. Drop the idx_Email index:
+7. Create a view that shows active customers and their subscriptions:
+8. Drop the Billing table:
+9. Create a stored procedure to update the status of inactive customers to 'Archived':
+10. Create a trigger to log changes to the Customers table:
