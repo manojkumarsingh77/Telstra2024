@@ -1,0 +1,5 @@
+1. What is the total revenue potential if all products in the catalog are sold?
+2. How many products are categorized under “Mobile Plans”?
+3. What is the average price of products in the “Smart Devices” category?
+4. Which product has the highest price, and what is its category?
+5. How many products are currently “In Stock”?
