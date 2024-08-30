@@ -1,0 +1,402 @@
+[
+    {
+        "product_id": "P001",
+        "product_name": "Basic Mobile Plan",
+        "description": "Entry-level mobile plan with 100 minutes, 500 SMS, and 1GB data.",
+        "category": "Mobile Plans",
+        "price": 10.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P002",
+        "product_name": "Premium Mobile Plan",
+        "description": "Premium mobile plan with unlimited calls, SMS, and 50GB data.",
+        "category": "Mobile Plans",
+        "price": 49.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P003",
+        "product_name": "International Calling Plan",
+        "description": "Affordable international calling plan with 1000 minutes.",
+        "category": "Mobile Plans",
+        "price": 15.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P004",
+        "product_name": "5G Unlimited Plan",
+        "description": "Unlimited data, calls, and SMS with 5G speeds.",
+        "category": "Mobile Plans",
+        "price": 69.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P005",
+        "product_name": "Family Mobile Plan",
+        "description": "Family plan with shared data and calls for up to 5 members.",
+        "category": "Mobile Plans",
+        "price": 89.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P006",
+        "product_name": "Home Broadband Basic",
+        "description": "Basic home broadband with 20Mbps speed and unlimited data.",
+        "category": "Broadband",
+        "price": 29.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P007",
+        "product_name": "Home Broadband Premium",
+        "description": "Premium home broadband with 100Mbps speed and unlimited data.",
+        "category": "Broadband",
+        "price": 49.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P008",
+        "product_name": "Fiber Internet Plan",
+        "description": "High-speed fiber internet with 1Gbps speed.",
+        "category": "Broadband",
+        "price": 69.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P009",
+        "product_name": "Home Broadband + TV Bundle",
+        "description": "Broadband and TV bundle with 50Mbps speed and 200+ channels.",
+        "category": "Bundles",
+        "price": 79.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P010",
+        "product_name": "Sports TV Package",
+        "description": "Access to all major sports channels in HD.",
+        "category": "TV Packages",
+        "price": 19.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P011",
+        "product_name": "Entertainment TV Package",
+        "description": "Access to entertainment channels including movies and series.",
+        "category": "TV Packages",
+        "price": 14.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P012",
+        "product_name": "International TV Package",
+        "description": "Access to international TV channels.",
+        "category": "TV Packages",
+        "price": 24.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P013",
+        "product_name": "Mobile Insurance",
+        "description": "Insurance plan covering theft and damage of mobile devices.",
+        "category": "Add-ons",
+        "price": 9.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P014",
+        "product_name": "Device Protection Plan",
+        "description": "Extended warranty and protection for all electronic devices.",
+        "category": "Add-ons",
+        "price": 14.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P015",
+        "product_name": "Smart Home Kit",
+        "description": "Complete smart home kit including security cameras, smart bulbs, and thermostat.",
+        "category": "Smart Devices",
+        "price": 199.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P016",
+        "product_name": "Smart Security Camera",
+        "description": "HD security camera with night vision and cloud storage.",
+        "category": "Smart Devices",
+        "price": 99.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P017",
+        "product_name": "Smart Thermostat",
+        "description": "Smart thermostat compatible with Alexa and Google Assistant.",
+        "category": "Smart Devices",
+        "price": 149.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P018",
+        "product_name": "Unlimited International Roaming",
+        "description": "Unlimited data and calls while traveling internationally.",
+        "category": "Mobile Plans",
+        "price": 59.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P019",
+        "product_name": "Home Voice Assistant",
+        "description": "Smart voice assistant for controlling smart home devices.",
+        "category": "Smart Devices",
+        "price": 49.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P020",
+        "product_name": "Wearable Fitness Tracker",
+        "description": "Fitness tracker with heart rate monitoring and GPS.",
+        "category": "Smart Devices",
+        "price": 89.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P021",
+        "product_name": "Gaming Router",
+        "description": "High-performance router for seamless gaming experience.",
+        "category": "Networking",
+        "price": 129.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P022",
+        "product_name": "Home Wi-Fi Extender",
+        "description": "Wi-Fi extender to eliminate dead zones in your home.",
+        "category": "Networking",
+        "price": 49.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P023",
+        "product_name": "Enterprise Business Plan",
+        "description": "Enterprise-level plan with dedicated support and unlimited resources.",
+        "category": "Business Plans",
+        "price": 499.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P024",
+        "product_name": "Small Business Plan",
+        "description": "Affordable plan for small businesses with shared resources.",
+        "category": "Business Plans",
+        "price": 149.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P025",
+        "product_name": "Remote Work Package",
+        "description": "Complete remote work package with VPN, collaboration tools, and cloud storage.",
+        "category": "Business Plans",
+        "price": 99.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P026",
+        "product_name": "5G Router",
+        "description": "5G enabled router for ultra-fast internet speeds.",
+        "category": "Networking",
+        "price": 199.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P027",
+        "product_name": "Satellite TV Package",
+        "description": "Comprehensive satellite TV package with 300+ channels.",
+        "category": "TV Packages",
+        "price": 34.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P028",
+        "product_name": "VoIP Business Plan",
+        "description": "VoIP plan for businesses with unlimited calls and call forwarding.",
+        "category": "Business Plans",
+        "price": 79.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P029",
+        "product_name": "Mobile Wi-Fi Hotspot",
+        "description": "Portable Wi-Fi hotspot with 50GB data.",
+        "category": "Networking",
+        "price": 39.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P030",
+        "product_name": "Unlimited Texting Plan",
+        "description": "Unlimited SMS with any mobile plan.",
+        "category": "Add-ons",
+        "price": 4.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P031",
+        "product_name": "Data Booster Pack",
+        "description": "Additional 10GB data add-on for any mobile plan.",
+        "category": "Add-ons",
+        "price": 9.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P032",
+        "product_name": "VoIP Residential Plan",
+        "description": "VoIP plan for residential customers with unlimited local calls.",
+        "category": "Home Services",
+        "price": 19.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P033",
+        "product_name": "Mobile Device Financing",
+        "description": "Flexible financing options for purchasing mobile devices.",
+        "category": "Add-ons",
+        "price": 0.00,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P034",
+        "product_name": "Streaming Media Player",
+        "description": "4K streaming media player with voice control.",
+        "category": "Smart Devices",
+        "price": 59.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P035",
+        "product_name": "Smart Light Bulb",
+        "description": "Wi-Fi enabled smart light bulb with customizable colors.",
+        "category": "Smart Devices",
+        "price": 19.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P036",
+        "product_name": "Business Cloud Storage",
+        "description": "Secure cloud storage for businesses with unlimited capacity.",
+        "category": "Business Plans",
+        "price": 249.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P037",
+        "product_name": "Residential Cloud Backup",
+        "description": "Automated cloud backup solution for residential customers.",
+        "category": "Home Services",
+        "price": 14.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P038",
+        "product_name": "Smart Doorbell",
+        "description": "Smart doorbell with video and two-way audio.",
+        "category": "Smart Devices",
+        "price": 89.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P039",
+        "product_name": "Business Collaboration Suite",
+        "description": "Comprehensive collaboration tools for business teams.",
+        "category": "Business Plans",
+        "price": 129.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P040",
+        "product_name": "Smart Speaker",
+        "description": "Wi-Fi and Bluetooth-enabled smart speaker with voice control.",
+        "category": "Smart Devices",
+        "price": 69.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P041",
+        "product_name": "High-Speed Cable Modem",
+        "description": "Cable modem for high-speed internet with DOCSIS 3.1 support.",
+        "category": "Networking",
+        "price": 89.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P042",
+        "product_name": "Enterprise VPN Solution",
+        "description": "Secure VPN solution for large enterprises.",
+        "category": "Business Plans",
+        "price": 299.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P043",
+        "product_name": "Residential VPN Service",
+        "description": "VPN service for secure browsing and streaming at home.",
+        "category": "Home Services",
+        "price": 7.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P044",
+        "product_name": "Smart Watch",
+        "description": "Smartwatch with fitness tracking, notifications, and more.",
+        "category": "Smart Devices",
+        "price": 149.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P045",
+        "product_name": "Fiber TV Package",
+        "description": "Fiber TV package with 250+ channels in 4K resolution.",
+        "category": "TV Packages",
+        "price": 44.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P046",
+        "product_name": "Mobile Hotspot Data Pack",
+        "description": "Additional 20GB data for mobile hotspots.",
+        "category": "Add-ons",
+        "price": 19.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P047",
+        "product_name": "Home Office Package",
+        "description": "Complete package with high-speed internet, VoIP, and cloud storage.",
+        "category": "Bundles",
+        "price": 99.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P048",
+        "product_name": "Business TV Package",
+        "description": "TV package tailored for businesses with news, finance, and sports channels.",
+        "category": "Business Plans",
+        "price": 59.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P049",
+        "product_name": "Data Encryption Service",
+        "description": "Advanced encryption service for protecting business data.",
+        "category": "Business Plans",
+        "price": 149.99,
+        "availability": "In Stock"
+    },
+    {
+        "product_id": "P050",
+        "product_name": "IoT Connectivity Solution",
+        "description": "Comprehensive IoT connectivity solution for businesses.",
+        "category": "Business Plans",
+        "price": 399.99,
+        "availability": "In Stock"
+    }
+]
