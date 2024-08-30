@@ -1,0 +1,77 @@
+Business Case 1: Customer Churn Prediction
+
+Scenario:
+
+A telecommunications company wants to proactively identify customers who are likely to churn (cancel their service). The company has historical data on customer behavior, demographics, and contract details. You need to build a pipeline to process this data, transform it, and load it into an Azure SQL Database for analysis.
+
+Dataset:
+
+	•	Customers.csv: Customer details (ID, demographics, account information)
+	•	Services.csv: Information on the services each customer subscribes to
+	•	Usage.csv: Monthly usage data for each customer (data, minutes, SMS)
+	•	Churn.csv: Historical churn data (whether a customer has churned or not)
+
+
+Dataset:
+
+Already given as zip file.
+===========================================
+Business Case 2: Network Performance Monitoring
+
+Scenario:
+
+The company needs to monitor network performance across different regions to ensure quality service. You need to create a pipeline that aggregates and analyzes network performance data, including latency, packet loss, and throughput, for different regions.
+
+Dataset:
+
+	•	NetworkDevices.csv: Details of network devices (DeviceID, Region, Type)
+	•	PerformanceMetrics.csv: Performance data from network devices (DeviceID, Latency, Packet Loss, Throughput, Timestamp)
+	•	Regions.csv: Information about each region (RegionID, Name, Population)
+
+
+Dataset:
+
+Already given as zip file.
+=====================================
+Business Case 3: Customer Service Interaction Analysis
+
+Scenario:
+
+The company wants to analyze customer interactions with the customer service department. The goal is to understand common issues, average resolution times, and customer satisfaction trends. You need to create a pipeline that processes interaction data, applies transformations, and loads it into Azure SQL Database.
+
+Dataset:
+
+	•	CustomerServiceLogs.csv: Logs of customer service interactions (InteractionID, CustomerID, IssueType, ResolutionTime, SatisfactionScore)
+	•	Agents.csv: Information on customer service agents (AgentID, Name, Department)
+	•	Issues.csv: Common issue types and categories (IssueID, Description, Category)
+
+Dataset:
+
+Already given as zip file.
+================================
+
+Business Case 4: Billing Data Consolidation
+
+Scenario:
+
+The company needs to consolidate billing data from multiple systems to provide a unified view of customer bills. The pipeline will ingest billing data, apply necessary transformations, and load it into a centralized database for analysis and reporting.
+
+Dataset:
+
+	•	BillingDetails.csv: Individual billing items for each customer (BillingID, CustomerID, ItemDescription, Amount, BillingDate)
+	•	Payments.csv: Payment records (PaymentID, CustomerID, Amount, PaymentDate, Method)
+	•	Invoices.csv: Consolidated invoice records (InvoiceID, CustomerID, TotalAmount, InvoiceDate)
+
+
+================================
+
+Business Case 5: Product Purchase Analysis
+
+Scenario:
+
+The company wants to analyze product purchases to understand trends, customer preferences, and seasonal patterns. The pipeline will process purchase data, apply transformations, and load the results into Azure SQL Database.
+
+Dataset:
+
+	Already given as zip file.
+
