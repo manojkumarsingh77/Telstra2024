@@ -1,0 +1,71 @@
+Requirement 1: Customer Churn Prediction Data Processing
+Problem Statement: The telecom company needs to analyze customer data to identify patterns leading to customer churn. The goal is to transform customer data, identify at-risk customers, and visualize the factors contributing to churn.
+Transformations:
+1. Data Cleaning: Remove records with missing values in key columns such as customer_id, tenure, monthly_charges, and total_charges.
+2. Churn Calculation: Create a new column churn_risk based on tenure and monthly_charges:
+o High Risk if tenure is less than 6 months and monthly charges are above $70.
+o Medium Risk if tenure is between 6 and 12 months and monthly charges are between $50 and $70.
+o Low Risk if tenure is more than 12 months or monthly charges are below $50.
+3. Aggregation: Aggregate data to find the average monthly charges and total charges by contract_type.
+4. Data Enrichment: Add a column contract_type to categorize customers into Month-to-Month, One Year, and Two Year contracts.
+Visualization:
+* Bar Chart: Visualize the number of customers by churn_risk.
+* Box Plot: Show the distribution of monthly_charges across different contract_type.
+Dataset: Download customer_churn_data.csv
+
+Requirement 2: Mobile Device Usage Analysis
+Problem Statement: The telecom company wants to understand mobile device usage patterns to optimize its marketing strategies. The pipeline will analyze data on device usage, categorize devices based on usage intensity, and visualize the most and least used devices.
+Transformations:
+1. Data Filtering: Filter out devices with usage below 1 hour per day.
+2. Usage Categorization: Add a new column usage_intensity:
+o Low for devices with usage between 1 and 2 hours per day.
+o Medium for devices with usage between 2 and 5 hours per day.
+o High for devices with usage above 5 hours per day.
+3. Data Aggregation: Aggregate the total usage time by device_model.
+4. Data Enrichment: Add a column average_daily_usage by calculating the average usage per day per device.
+Visualization:
+* Pie Chart: Display the distribution of usage_intensity.
+* Bar Chart: Show the total usage time by device_model.
+Dataset: Download device_usage_data.csv
+
+Requirement 3: Prepaid Plan Recharge Analysis
+Problem Statement: The telecom company needs to analyze prepaid plan recharge patterns to identify peak recharge periods and customer preferences. The goal is to transform the recharge data, identify trends, and visualize recharge patterns.
+Transformations:
+1. Data Filtering: Filter out recharges below $10.
+2. Recharge Categorization: Create a new column recharge_type:
+o Small for recharges between $10 and $20.
+o Medium for recharges between $20 and $50.
+o Large for recharges above $50.
+3. Data Aggregation: Aggregate the total recharge amount by day_of_week.
+4. Data Enrichment: Add a column peak_period to indicate whether the recharge occurred during peak hours (6 PM to 10 PM).
+Visualization:
+* Line Chart: Visualize the total recharge amount by day_of_week.
+* Heatmap: Show the distribution of recharges across day_of_week and peak_period.
+Dataset: Download prepaid_recharge_data.csv
+
+Requirement 4: Data Plan Renewal Analysis
+Problem Statement: Analyze data plan renewal patterns to optimize data plan offerings and increase customer retention. The pipeline will process renewal data, identify renewal trends, and visualize the most and least popular plans.
+Transformations:
+1. Data Cleaning: Remove records with missing values in key columns such as customer_id, plan_name, and renewal_date.
+2. Plan Categorization: Add a new column renewal_status:
+o Renewed if the customer renewed their plan within 30 days of expiration.
+o Expired if the customer did not renew their plan within 30 days.
+3. Data Aggregation: Calculate the total number of renewals and expirations by plan_name.
+4. Data Enrichment: Add a column days_to_renew to calculate the number of days between the expiration date and renewal date.
+Visualization:
+* Bar Chart: Visualize the number of renewals and expirations by plan_name.
+* Scatter Plot: Show the relationship between plan_name and days_to_renew.
+Dataset: Download plan_renewal_data.csv
+
+Requirement 5: Customer Feedback Sentiment Analysis
+Problem Statement: The telecom company needs to analyze customer feedback to understand customer satisfaction and sentiment. The pipeline will process feedback data, categorize sentiment, and visualize sentiment distribution across different services.
+Transformations:
+1. Data Cleaning: Remove records with missing values in key columns such as feedback_id, customer_id, and feedback_text.
+2. Sentiment Analysis: Perform basic sentiment analysis to categorize feedback as Positive, Neutral, or Negative.
+3. Data Aggregation: Aggregate the sentiment data by service_type to find the average sentiment score.
+4. Data Enrichment: Add a column feedback_length to calculate the number of words in each feedback.
+Visualization:
+* Pie Chart: Show the distribution of feedback sentiment.
+* Bar Chart: Visualize the average sentiment score by service_type.
+Dataset: Download customer_feedback_data.csv
+
