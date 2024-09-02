@@ -1,0 +1,33 @@
+Business Requirement Problem Statement: Telecom Customer Call Data Processing and Visualization
+
+
+""The telecommunications company is facing challenges in analyzing customer call data, which is critical for understanding customer behavior, improving service quality, and optimizing network performance.
+The current system lacks an automated, scalable solution for processing and analyzing large volumes of call data collected from various sources. 
+The company requires a robust data pipeline to handle the ETL (Extract, Transform, Load) process, ensuring that the data is clean, enriched, and ready for analysis. 
+The final processed data should be easily accessible for visualization to derive actionable insights.""
+
+Tasks to Perform:
+
+	1.	Data Ingestion:
+	•	Set up Azure Blob Storage to store raw customer call data in CSV format using python script.
+
+	2.	Data Transformation:
+	•	Design a data transformation process to filter out incomplete or dropped calls (calls with a duration of less than 10 seconds).
+	•	Aggregate the data by region and network type to calculate key metrics such as total call count, total call duration, and average call cost.
+	•	Enrich the data by categorizing calls into Short, Medium, and Long based on their duration.
+	•	Ensure data quality by cleaning the dataset, removing null or missing values in critical columns.
+
+	3.	Data Loading:
+	•	Load the transformed data into ADLS Gen2 in Parquet format, organizing it by year, month, and day based on the call date.
+
+	4.	Pipeline Orchestration:
+	•	Build an Azure Data Factory pipeline to automate the entire ETL process, including data ingestion, transformation, and loading.
+	•	Implement scheduling and monitoring to ensure the pipeline runs efficiently and handles potential failures.
+
+	5.	Data Visualization:
+	•	Write a Python script in Google Colab to connect to ADLS Gen2 and retrieve the processed data.
+	•	Visualize key metrics such as the number of calls by region and network type, and the average call cost by call category using libraries like Matplotlib and Seaborn.
+
+	6.	Reporting and Insights:
+	•	Generate visual reports that highlight call patterns, customer service quality, and network performance.
+	•	Provide actionable insights to the company based on the analyzed data to improve decision-making and customer satisfaction.
