@@ -1,0 +1,101 @@
+customer_id,tenure,monthly_charges,total_charges,contract_type
+cust_1,30,30.39,1817.17,Month-to-Month
+cust_2,24,63.77,3161.82,Two Year
+cust_3,15,26.99,394.67,Two Year
+cust_4,14,61.31,344.64,Two Year
+cust_5,30,36.47,343.25,Two Year
+cust_6,15,87.52,1102.19,Month-to-Month
+cust_7,32,77.71,1766.48,One Year
+cust_8,36,77.95,454.79,Month-to-Month
+cust_9,36,56.78,1322.67,Month-to-Month
+cust_10,26,51.62,2957.53,One Year
+cust_11,27,81.03,3345.62,One Year
+cust_12,24,37.03,464.31,One Year
+cust_13,13,72.97,1877.72,Two Year
+cust_14,25,58.68,686.82,Two Year
+cust_15,3,67.75,1243.3,Month-to-Month
+cust_16,34,30.07,3380.03,Month-to-Month
+cust_17,19,21.12,2265.36,One Year
+cust_18,11,39.83,3340.5,One Year
+cust_19,31,53.14,808.33,Two Year
+cust_20,32,78.34,1622.11,One Year
+cust_21,33,44.76,1165.96,Two Year
+cust_22,36,96.06,1999.84,Two Year
+cust_23,12,54.16,1995.05,Month-to-Month
+cust_24,28,64.04,561.81,Two Year
+cust_25,30,85.38,2458.5,Month-to-Month
+cust_26,4,67.54,1261.4,One Year
+cust_27,8,24.42,1318.69,One Year
+cust_28,1,88.26,2033.0,Two Year
+cust_29,17,40.3,2589.73,Month-to-Month
+cust_30,28,76.64,459.98,Month-to-Month
+cust_31,36,81.91,3406.14,One Year
+cust_32,20,51.05,1034.4,Two Year
+cust_33,12,84.89,375.99,Month-to-Month
+cust_34,7,46.6,3266.19,Month-to-Month
+cust_35,36,23.86,899.34,Month-to-Month
+cust_36,29,28.2,2815.89,Month-to-Month
+cust_37,30,56.02,1706.37,One Year
+cust_38,17,32.6,2069.56,One Year
+cust_39,32,54.72,134.48,Month-to-Month
+cust_40,30,45.76,2598.83,Two Year
+cust_41,20,36.18,207.19,Two Year
+cust_42,13,38.44,1290.03,Two Year
+cust_43,2,36.22,3507.39,One Year
+cust_44,4,25.78,3002.33,One Year
+cust_45,4,76.83,2367.25,Month-to-Month
+cust_46,19,61.01,586.96,Two Year
+cust_47,5,57.3,913.39,Month-to-Month
+cust_48,25,99.96,3214.03,Month-to-Month
+cust_49,25,71.56,1965.23,Two Year
+cust_50,24,37.24,1135.65,One Year
+cust_51,5,62.49,1935.41,One Year
+cust_52,10,86.51,1146.24,Month-to-Month
+cust_53,11,79.87,3244.09,Two Year
+cust_54,8,35.27,915.28,Month-to-Month
+cust_55,17,73.03,977.52,Month-to-Month
+cust_56,3,94.51,3183.01,Two Year
+cust_57,10,33.5,844.01,Two Year
+cust_58,18,22.48,3506.35,One Year
+cust_59,12,76.95,994.97,One Year
+cust_60,33,87.66,1909.31,Two Year
+cust_61,16,48.15,358.25,Month-to-Month
+cust_62,8,83.32,2530.38,One Year
+cust_63,16,67.57,518.62,Month-to-Month
+cust_64,16,40.37,799.19,Month-to-Month
+cust_65,18,39.2,2937.28,Month-to-Month
+cust_66,1,89.28,3398.85,One Year
+cust_67,30,98.6,1089.47,Two Year
+cust_68,6,42.6,118.63,Two Year
+cust_69,16,84.97,619.6,One Year
+cust_70,6,39.42,2088.99,Two Year
+cust_71,13,90.85,1554.28,One Year
+cust_72,5,26.81,1444.38,One Year
+cust_73,5,26.5,1233.94,Month-to-Month
+cust_74,23,67.71,1106.5,Month-to-Month
+cust_75,23,24.57,3573.02,One Year
+cust_76,29,23.17,2171.66,One Year
+cust_77,26,81.79,2590.72,One Year
+cust_78,27,55.0,1974.47,Month-to-Month
+cust_79,10,70.3,2282.78,Two Year
+cust_80,28,53.53,2814.37,Two Year
+cust_81,24,50.26,3039.54,Month-to-Month
+cust_82,23,95.42,3569.9,Two Year
+cust_83,5,64.32,3305.74,One Year
+cust_84,36,42.25,3555.57,Month-to-Month
+cust_85,4,38.21,2298.77,Two Year
+cust_86,28,69.13,1356.9,Two Year
+cust_87,19,50.27,270.72,Two Year
+cust_88,21,61.38,3516.53,One Year
+cust_89,18,73.62,1720.24,One Year
+cust_90,21,20.8,360.44,Two Year
+cust_91,10,88.37,903.69,Two Year
+cust_92,18,28.89,1620.23,One Year
+cust_93,4,93.74,289.99,Month-to-Month
+cust_94,4,30.78,1569.09,One Year
+cust_95,27,42.02,835.71,One Year
+cust_96,18,60.35,3339.8,Month-to-Month
+cust_97,3,56.29,2579.46,Month-to-Month
+cust_98,4,21.51,2734.21,Month-to-Month
+cust_99,27,99.94,1659.89,Two Year
+cust_100,22,54.28,3352.3,One Year
