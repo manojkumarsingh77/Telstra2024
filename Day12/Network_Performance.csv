@@ -1,0 +1,6 @@
+Region,Date,DownloadSpeed_Mbps,UploadSpeed_Mbps,Latency_ms,PacketLoss_%,Jitter_ms
+North,2024-09-01,50.5,30.5,20,0.5,5
+South,2024-09-01,70.2,40.2,15,0.2,3
+East,2024-09-01,60.1,35.1,18,0.3,4
+West,2024-09-01,80.3,50.3,12,0.1,2
+Central,2024-09-01,55.2,32.2,22,0.4,6
