@@ -1,0 +1,1500 @@
+{"customer_id":431,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":854,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":162,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":950,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":419,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":449,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":92,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":149,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":158,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":476,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":220,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":371,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":70,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":57,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":790,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":72,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":111,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":681,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":62,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":171,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":283,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":536,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":797,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":862,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":117,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":910,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":75,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":92,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":528,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":355,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":690,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":662,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":928,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":540,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":238,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":767,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":307,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":970,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":301,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":153,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":384,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":125,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":83,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":934,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":731,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":355,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":342,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":145,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":886,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":32,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":931,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":671,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":117,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":559,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":922,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":828,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":686,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":583,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":164,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":302,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":283,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":164,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":391,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":541,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":719,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":392,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":478,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":509,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":167,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":484,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":988,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":733,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":18,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":259,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":709,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":993,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":302,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":616,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":206,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":500,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":249,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":16,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":198,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":507,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":257,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":136,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":103,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":274,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":803,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":761,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":722,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":905,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":889,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":723,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":77,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":642,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":363,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":144,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":46,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":34,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":556,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":948,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":576,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":108,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":456,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":116,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":145,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":869,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":726,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":109,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":340,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":560,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":345,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":605,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":6,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":876,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":800,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":272,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":222,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":787,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":748,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":777,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":919,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":164,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":943,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":994,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":703,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":664,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":631,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":385,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":676,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":280,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":99,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":761,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":580,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":523,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":750,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":936,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":845,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":502,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":937,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":299,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":721,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":91,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":204,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":503,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":145,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":21,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":856,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":720,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":365,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":223,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":152,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":963,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":17,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":251,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":625,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":603,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":395,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":530,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":434,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":850,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":508,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":163,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":830,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":485,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":60,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":946,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":73,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":784,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":420,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":168,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":514,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":308,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":309,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":684,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":526,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":302,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":491,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":573,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":109,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":196,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":883,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":499,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":774,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":907,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":903,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":746,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":443,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":118,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":266,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":14,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":480,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":155,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":805,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":97,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":407,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":642,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":964,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":167,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":763,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":891,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":226,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":336,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":943,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":49,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":980,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":110,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":161,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":211,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":317,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":800,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":179,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":558,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":340,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":236,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":64,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":746,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":111,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":267,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":131,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":490,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":456,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":73,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":537,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":576,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":477,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":65,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":636,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":318,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":585,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":899,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":545,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":898,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":134,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":465,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":673,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":953,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":921,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":391,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":408,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":535,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":58,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":76,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":408,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":851,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":631,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":938,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":683,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":448,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":1,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":92,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":193,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":698,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":128,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":41,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":42,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":631,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":233,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":668,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":870,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":851,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":597,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":24,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":835,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":966,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":324,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":245,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":336,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":505,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":801,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":163,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":67,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":496,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":886,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":574,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":47,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":689,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":875,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":805,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":942,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":107,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":43,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":41,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":370,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":853,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":765,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":550,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":332,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":392,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":942,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":887,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":182,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":171,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":669,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":789,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":788,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":673,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":544,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":684,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":514,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":569,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":19,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":194,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":742,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":617,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":81,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":902,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":629,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":304,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":81,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":122,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":483,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":186,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":504,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":1000,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":685,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":812,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":116,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":783,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":490,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":52,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":926,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":782,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":489,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":864,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":557,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":372,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":484,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":386,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":502,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":310,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":523,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":862,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":682,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":102,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":771,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":706,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":612,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":286,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":891,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":146,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":394,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":302,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":522,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":518,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":591,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":385,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":667,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":347,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":804,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":199,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":384,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":114,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":146,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":69,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":428,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":453,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":339,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":147,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":777,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":632,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":896,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":128,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":881,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":597,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":873,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":963,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":11,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":900,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":744,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":678,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":845,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":401,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":96,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":992,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":355,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":912,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":555,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":586,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":555,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":845,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":116,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":261,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":11,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":954,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":485,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":251,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":585,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":103,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":947,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":619,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":188,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":521,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":526,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":771,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":522,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":186,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":605,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":980,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":186,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":388,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":97,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":903,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":858,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":781,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":944,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":1,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":367,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":684,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":668,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":132,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":583,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":761,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":235,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":954,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":580,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":551,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":265,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":194,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":518,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":158,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":129,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":225,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":983,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":781,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":292,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":157,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":500,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":637,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":731,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":269,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":729,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":327,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":3,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":187,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":927,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":158,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":875,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":563,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":754,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":313,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":315,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":247,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":598,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":396,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":213,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":404,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":797,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":846,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":140,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":361,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":301,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":626,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":293,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":915,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":878,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":490,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":918,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":388,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":895,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":697,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":113,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":376,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":968,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":45,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":239,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":885,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":905,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":947,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":163,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":185,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":816,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":31,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":417,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":739,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":282,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":641,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":800,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":60,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":518,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":753,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":910,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":822,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":707,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":619,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":967,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":83,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":97,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":661,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":154,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":758,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":684,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":110,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":919,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":9,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":923,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":432,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":378,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":837,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":551,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":451,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":438,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":385,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":244,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":581,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":37,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":3,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":35,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":408,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":39,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":136,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":614,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":793,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":435,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":955,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":585,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":595,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":394,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":593,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":714,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":946,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":917,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":27,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":511,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":883,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":183,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":881,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":577,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":39,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":87,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":581,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":441,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":50,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":512,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":195,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":323,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":500,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":576,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":846,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":828,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":29,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":472,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":811,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":917,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":533,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":949,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":414,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":299,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":66,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":493,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":520,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":445,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":476,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":730,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":538,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":475,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":626,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":784,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":711,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":190,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":706,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":446,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":653,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":52,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":74,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":454,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":162,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":916,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":848,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":70,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":195,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":984,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":835,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":74,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":737,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":234,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":737,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":599,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":590,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":731,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":218,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":553,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":241,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":537,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":452,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":1000,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":918,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":184,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":432,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":537,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":435,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":15,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":55,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":933,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":604,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":546,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":706,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":544,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":5,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":77,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":28,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":786,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":918,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":172,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":310,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":850,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":421,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":242,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":742,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":273,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":905,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":760,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":235,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":328,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":319,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":307,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":537,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":32,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":323,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":77,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":295,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":550,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":627,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":40,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":897,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":398,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":303,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":717,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":3,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":863,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":183,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":515,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":756,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":506,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":659,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":468,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":744,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":541,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":506,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":982,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":298,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":722,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":745,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":738,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":370,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":213,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":347,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":625,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":534,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":198,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":612,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":641,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":51,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":574,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":50,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":894,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":587,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":424,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":519,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":603,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":649,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":99,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":230,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":253,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":360,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":818,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":740,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":54,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":948,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":405,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":551,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":191,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":581,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":183,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":508,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":343,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":187,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":315,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":915,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":855,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":158,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":899,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":867,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":308,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":594,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":356,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":98,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":734,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":30,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":797,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":995,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":64,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":294,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":732,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":380,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":393,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":121,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":617,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":840,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":76,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":710,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":238,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":59,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":71,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":994,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":200,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":51,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":276,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":874,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":831,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":764,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":733,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":645,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":549,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":526,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":362,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":567,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":560,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":139,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":520,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":760,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":648,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":106,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":289,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":370,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":5,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":687,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":221,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":292,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":349,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":352,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":960,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":308,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":779,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":830,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":478,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":379,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":719,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":659,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":693,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":282,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":829,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":276,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":379,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":933,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":35,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":58,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":200,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":139,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":997,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":171,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":97,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":486,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":856,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":640,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":414,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":574,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":726,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":190,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":402,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":9,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":944,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":320,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":686,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":494,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":81,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":970,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":422,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":730,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":435,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":665,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":629,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":169,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":767,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":223,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":111,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":687,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":879,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":948,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":893,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":163,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":426,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":985,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":139,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":381,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":290,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":688,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":628,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":556,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":992,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":846,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":329,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":270,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":783,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":132,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":308,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":476,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":579,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":604,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":289,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":68,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":336,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":566,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":989,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":898,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":330,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":912,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":775,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":457,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":319,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":761,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":375,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":754,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":933,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":80,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":260,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":114,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":509,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":869,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":35,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":904,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":503,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":989,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":714,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":209,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":327,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":61,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":271,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":568,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":78,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":167,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":809,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":60,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":121,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":150,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":573,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":781,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":844,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":192,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":519,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":567,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":906,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":639,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":383,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":393,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":468,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":940,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":833,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":892,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":110,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":756,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":549,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":46,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":438,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":550,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":661,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":788,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":889,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":431,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":996,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":510,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":703,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":294,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":357,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":623,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":730,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":83,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":544,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":327,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":831,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":380,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":772,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":90,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":71,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":27,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":339,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":979,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":840,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":940,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":141,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":285,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":547,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":245,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":130,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":906,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":538,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":859,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":949,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":12,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":965,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":991,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":668,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":236,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":657,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":661,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":341,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":772,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":358,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":704,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":237,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":849,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":499,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":794,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":955,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":686,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":489,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":107,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":636,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":666,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":420,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":768,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":929,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":148,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":164,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":49,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":20,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":388,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":271,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":748,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":783,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":154,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":234,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":925,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":232,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":385,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":146,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":115,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":137,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":573,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":622,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":729,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":305,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":721,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":950,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":439,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":511,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":485,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":989,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":26,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":753,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":913,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":83,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":340,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":494,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":283,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":228,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":56,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":312,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":871,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":141,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":323,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":961,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":96,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":343,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":645,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":812,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":183,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":311,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":657,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":586,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":563,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":107,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":986,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":334,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":451,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":286,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":853,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":494,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":505,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":832,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":856,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":399,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":501,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":422,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":43,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":48,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":403,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":245,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":22,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":707,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":699,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":567,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":119,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":939,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":315,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":951,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":910,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":843,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":510,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":713,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":839,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":315,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":350,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":970,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":310,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":816,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":961,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":314,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":63,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":907,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":954,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":436,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":213,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":668,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":700,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":177,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":521,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":471,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":54,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":783,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":760,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":658,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":7,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":535,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":736,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":950,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":602,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":912,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":35,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":421,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":848,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":910,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":555,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":976,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":486,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":783,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":823,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":322,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":880,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":418,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":500,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":937,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":541,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":379,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":551,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":56,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":87,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":979,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":261,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":518,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":799,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":484,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":7,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":840,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":435,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":967,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":107,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":317,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":259,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":30,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":337,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":944,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":965,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":828,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":316,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":508,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":664,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":546,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":645,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":42,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":865,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":377,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":575,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":32,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":661,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":367,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":399,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":695,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":195,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":762,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":909,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":938,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":650,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":827,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":702,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":23,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":788,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":381,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":888,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":929,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":400,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":180,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":347,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":893,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":721,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":96,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":159,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":755,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":934,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":786,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":853,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":757,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":641,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":919,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":168,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":17,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":666,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":958,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":645,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":159,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":714,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":22,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":153,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":100,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":859,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":362,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":28,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":915,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":917,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":614,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":906,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":971,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":955,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":615,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":86,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":300,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":399,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":27,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":184,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":19,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":469,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":316,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":826,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":27,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":426,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":214,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":819,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":398,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":448,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":653,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":156,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":180,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":788,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":867,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":336,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":797,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":480,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":678,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":343,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":529,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":351,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":21,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":630,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":327,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":428,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":870,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":654,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":26,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":679,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":46,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":582,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":310,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":780,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":491,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":4,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":973,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":859,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":876,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":132,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":757,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":999,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":253,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":8,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":425,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":591,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":54,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":878,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":531,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":704,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":187,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":188,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":796,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":176,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":965,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":218,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":334,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":557,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":711,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":120,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":526,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":766,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":885,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":220,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":387,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":686,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":795,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":418,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":608,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":428,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":610,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":221,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":737,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":111,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":224,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":781,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":716,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":690,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":770,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":976,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":273,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":792,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":946,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":818,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":875,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":431,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":820,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":747,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":746,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":338,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":631,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":273,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":355,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":2,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":699,"satisfaction_score":3,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":523,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":245,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":445,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":547,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":505,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":558,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":23,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":97,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":529,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":493,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":178,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":314,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":77,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":266,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":918,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":904,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":426,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":136,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":368,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":170,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":78,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":537,"satisfaction_score":1,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":529,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":526,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":599,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":404,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":890,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":991,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":894,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":228,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":461,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":34,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":218,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":521,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":954,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":399,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":569,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":394,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":474,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":267,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":612,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":703,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":152,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":594,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":62,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":162,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":213,"satisfaction_score":4,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":337,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":66,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":46,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":447,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":435,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":946,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":135,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":412,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":645,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":222,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":997,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":788,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":392,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":615,"satisfaction_score":5,"feedback":"Average","service_type":"Internet"}
+{"customer_id":963,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":94,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":193,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":830,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":597,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":636,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":861,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":703,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":162,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":797,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":213,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":34,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":571,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":788,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":821,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":149,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":687,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":735,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":614,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":864,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":468,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":159,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":622,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":747,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":385,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":564,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":939,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":709,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":902,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":233,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":117,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":831,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":217,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":635,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":611,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":733,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":161,"satisfaction_score":4,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":152,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":168,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":152,"satisfaction_score":1,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":296,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":55,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":662,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":802,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":783,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":63,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":390,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":925,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":718,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":464,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":976,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":73,"satisfaction_score":1,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":697,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":814,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":77,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":546,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":805,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":345,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":49,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":227,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":41,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":965,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":666,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":46,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":770,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":615,"satisfaction_score":2,"feedback":"Average","service_type":"Internet"}
+{"customer_id":14,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":105,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":82,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":725,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":405,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":945,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":595,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":984,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":349,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":555,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":302,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":515,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":869,"satisfaction_score":3,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":37,"satisfaction_score":5,"feedback":"Good","service_type":"TV"}
+{"customer_id":676,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":404,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":371,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":478,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":295,"satisfaction_score":5,"feedback":"Poor","service_type":"TV"}
+{"customer_id":371,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":419,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":706,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":140,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":718,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":561,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":670,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":544,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":462,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":401,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":133,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":153,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":393,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":628,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":907,"satisfaction_score":4,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":179,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":386,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":979,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":755,"satisfaction_score":1,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":145,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":164,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":325,"satisfaction_score":4,"feedback":"Average","service_type":"Internet"}
+{"customer_id":16,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":151,"satisfaction_score":1,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":268,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":333,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":554,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":906,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":339,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":141,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":786,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":582,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":939,"satisfaction_score":3,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":441,"satisfaction_score":4,"feedback":"Good","service_type":"Internet"}
+{"customer_id":747,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":566,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":380,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":131,"satisfaction_score":1,"feedback":"Good","service_type":"TV"}
+{"customer_id":741,"satisfaction_score":3,"feedback":"Good","service_type":"Internet"}
+{"customer_id":209,"satisfaction_score":5,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":197,"satisfaction_score":4,"feedback":"Average","service_type":"TV"}
+{"customer_id":665,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":53,"satisfaction_score":5,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":492,"satisfaction_score":4,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":310,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":919,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":754,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":844,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":940,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":644,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":435,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":853,"satisfaction_score":5,"feedback":"Average","service_type":"TV"}
+{"customer_id":150,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":604,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":244,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":653,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":993,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":59,"satisfaction_score":2,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":874,"satisfaction_score":3,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":136,"satisfaction_score":2,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":987,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":704,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":229,"satisfaction_score":2,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":998,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":441,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":382,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":159,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":898,"satisfaction_score":5,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":360,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":122,"satisfaction_score":2,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":867,"satisfaction_score":3,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":60,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":338,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":463,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":752,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":183,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":751,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":964,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":860,"satisfaction_score":1,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":564,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":670,"satisfaction_score":1,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":415,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":348,"satisfaction_score":1,"feedback":"Poor","service_type":"TV"}
+{"customer_id":451,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":644,"satisfaction_score":1,"feedback":"Good","service_type":"Internet"}
+{"customer_id":961,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":748,"satisfaction_score":2,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":835,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":88,"satisfaction_score":4,"feedback":"Very Poor","service_type":"TV"}
+{"customer_id":680,"satisfaction_score":3,"feedback":"Average","service_type":"Internet"}
+{"customer_id":941,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":455,"satisfaction_score":2,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":576,"satisfaction_score":3,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":721,"satisfaction_score":5,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":63,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":100,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":59,"satisfaction_score":1,"feedback":"Average","service_type":"TV"}
+{"customer_id":818,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":583,"satisfaction_score":3,"feedback":"Good","service_type":"TV"}
+{"customer_id":505,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":466,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":611,"satisfaction_score":3,"feedback":"Poor","service_type":"TV"}
+{"customer_id":527,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":541,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":534,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":759,"satisfaction_score":5,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":573,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":209,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":725,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":33,"satisfaction_score":4,"feedback":"Poor","service_type":"TV"}
+{"customer_id":910,"satisfaction_score":2,"feedback":"Good","service_type":"TV"}
+{"customer_id":746,"satisfaction_score":5,"feedback":"Average","service_type":"Mobile"}
+{"customer_id":54,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":843,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":241,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":510,"satisfaction_score":3,"feedback":"Poor","service_type":"Internet"}
+{"customer_id":408,"satisfaction_score":2,"feedback":"Poor","service_type":"TV"}
+{"customer_id":396,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":566,"satisfaction_score":2,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":574,"satisfaction_score":3,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":591,"satisfaction_score":5,"feedback":"Poor","service_type":"Mobile"}
+{"customer_id":869,"satisfaction_score":4,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":797,"satisfaction_score":2,"feedback":"Good","service_type":"Internet"}
+{"customer_id":731,"satisfaction_score":1,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":507,"satisfaction_score":1,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":76,"satisfaction_score":5,"feedback":"Good","service_type":"Internet"}
+{"customer_id":207,"satisfaction_score":5,"feedback":"Excellent","service_type":"Mobile"}
+{"customer_id":484,"satisfaction_score":3,"feedback":"Excellent","service_type":"Internet"}
+{"customer_id":702,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":28,"satisfaction_score":4,"feedback":"Excellent","service_type":"TV"}
+{"customer_id":876,"satisfaction_score":4,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":522,"satisfaction_score":5,"feedback":"Very Poor","service_type":"Mobile"}
+{"customer_id":238,"satisfaction_score":2,"feedback":"Average","service_type":"TV"}
+{"customer_id":534,"satisfaction_score":3,"feedback":"Average","service_type":"TV"}
+{"customer_id":462,"satisfaction_score":1,"feedback":"Average","service_type":"Internet"}
+{"customer_id":931,"satisfaction_score":4,"feedback":"Good","service_type":"TV"}
+{"customer_id":637,"satisfaction_score":2,"feedback":"Very Poor","service_type":"Internet"}
+{"customer_id":575,"satisfaction_score":2,"feedback":"Good","service_type":"Mobile"}
+{"customer_id":128,"satisfaction_score":4,"feedback":"Very Poor","service_type":"Mobile"}

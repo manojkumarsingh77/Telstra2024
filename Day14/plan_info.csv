@@ -1,0 +1,4 @@
+plan_type,plan_name,plan_cost,validity
+Basic,Basic Plan,20,30 days
+Standard,Standard Plan,50,30 days
+Premium,Premium Plan,100,30 days
