@@ -1,0 +1,82 @@
+Exercise 1: Data Ingestion and Schema Definition
+Objective: Load and inspect the dataset.
+
+Dataset: Telecommunication customer details in CSV format (e.g., customer_id, name, age, city, plan_type, subscription_date).
+Task:
+Read the CSV file into a PySpark DataFrame.
+Infer schema automatically and display the DataFrame schema.
+Show the first 10 rows of the DataFrame.
+Exercise 2: Data Cleaning and Handling Null Values
+Objective: Handle missing data.
+
+Dataset: Telecom usage details (e.g., customer_id, call_duration, data_usage, messages_sent, billing_amount).
+Task:
+Identify columns with missing data.
+Fill missing values in the call_duration and data_usage columns with zeros.
+Drop rows where customer_id is null.
+Exercise 3: Filtering Data
+Objective: Learn to filter and query data using PySpark DataFrame API.
+
+Dataset: Telecom call logs with columns such as customer_id, call_duration, call_type (local, international), call_date, call_charge.
+Task:
+Filter all calls with duration greater than 5 minutes.
+Filter international calls made by customers in the last 30 days.
+Display the total number of local and international calls made.
+Exercise 4: Data Aggregation and Grouping
+Objective: Perform aggregation and grouping operations.
+
+Dataset: Telecom call logs as used in Exercise 3.
+Task:
+Group the data by call_type and calculate the total call_duration for each type.
+Find the average call_charge per call_type.
+Count the number of calls made by each customer.
+Exercise 5: Join Operations
+Objective: Learn how to perform join operations between two DataFrames.
+
+Dataset 1: Customer details (e.g., customer_id, name, city, plan_type).
+Dataset 2: Billing information (e.g., customer_id, billing_month, total_amount_due).
+Task:
+Perform an inner join between the customer and billing DataFrames on customer_id.
+Show the billing details for customers in a specific city (e.g., "New York").
+Perform a left join to list all customers with their billing details, ensuring that customers without bills are included.
+Exercise 6: Window Functions for Ranking
+Objective: Use window functions to perform ranking operations.
+
+Dataset: Customer billing history (e.g., customer_id, billing_month, total_amount_due).
+Task:
+Use a window function to calculate the running total for total_amount_due for each customer.
+Rank customers based on their total billing amounts (top spenders first).
+Partition the data by billing_month and rank customers by their monthly spending.
+Exercise 7: DataFrame Transformations
+Objective: Apply various transformations.
+
+Dataset: Customer activity logs (e.g., customer_id, activity_type, timestamp, data_usage).
+Task:
+Convert the timestamp to a Spark DateType.
+Calculate the daily data usage per customer.
+Create a new column that labels customers with more than 5GB daily usage as "heavy users."
+Exercise 8: Broadcasting Variables
+Objective: Efficiently use broadcast variables in joins.
+
+Dataset 1: Customer information with customer_id and plan_type.
+Dataset 2: Plan information with plan_type and plan_cost.
+Task:
+Broadcast the plan_type DataFrame.
+Perform a join to associate each customer with the cost of their plan.
+Display the result, focusing on the efficient use of broadcast joins.
+Exercise 9: Caching and Persistence
+Objective: Cache and persist DataFrames for repeated queries.
+
+Dataset: Network performance data (e.g., network_id, signal_strength, location, timestamp).
+Task:
+Cache the DataFrame after filtering data for the last 7 days.
+Perform an aggregation on the cached data to calculate the average signal_strength for each network.
+Compare the performance before and after caching.
+Exercise 10: Writing Data to Parquet
+Objective: Write processed data back into storage.
+
+Dataset: Telecom call logs as in previous exercises.
+Task:
+Filter out international calls with a duration of more than 10 minutes.
+Write the filtered DataFrame to Parquet format, partitioned by call_type.
+Read the Parquet file back into a DataFrame and display the schema.
