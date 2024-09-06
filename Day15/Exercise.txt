@@ -1,0 +1,100 @@
+1. Call Drop Analysis
+Problem Statement: Analyze network call drop data to identify areas with the highest call drop rates, time patterns of call drops, and potential factors affecting the drops. Business Queries:
+
+Identify the top 5 regions with the highest call drop rates.
+Analyze call drops by time of day (e.g., peak hours).
+Determine the average call duration before a drop occurs.
+Identify users with more than 3 call drops in a single day.
+Correlate call drop rate with signal strength.
+Dataset: A Parquet file with columns: call_id, user_id, region, call_duration, call_drop, timestamp, signal_strength.
+
+2. Network Performance Monitoring
+Problem Statement: Track network performance metrics to evaluate signal strength, data transfer speed, and network utilization across various regions. Business Queries:
+
+Analyze average signal strength across regions.
+Find the region with the highest average data transfer speed.
+Monitor hourly network utilization for each region.
+Compare performance between different network types (e.g., 3G, 4G, 5G).
+Detect regions with abnormal fluctuations in network performance.
+Dataset: A Parquet file with columns: region, network_type, timestamp, signal_strength, data_transfer_speed, network_utilization.
+
+3. Customer Churn Prediction
+Problem Statement: Predict customer churn based on service usage patterns, complaints, and network performance. Business Queries:
+
+Identify customers with low average data usage.
+Analyze correlation between customer complaints and churn rate.
+Determine the average tenure of churned customers.
+Predict churn likelihood based on call drop rates and service quality.
+Classify customers into high, medium, and low churn risk categories.
+Dataset: A Parquet file with columns: customer_id, data_usage, call_drop_rate, complaint_count, network_issues_reported, customer_tenure, churn_status.
+
+4. Fraud Detection in SIM Usage
+Problem Statement: Detect abnormal SIM usage patterns that may indicate fraud, such as sudden spikes in usage or multiple SIMs in different locations. Business Queries:
+
+Identify SIMs with sudden spikes in usage (e.g., 50% increase within 24 hours).
+Detect SIMs used in multiple locations within a short time.
+Classify customers based on normal vs. abnormal usage patterns.
+Correlate fraud cases with high call volumes or unusual data consumption.
+Determine the time of day when fraud cases are most likely to occur.
+Dataset: A Parquet file with columns: sim_id, user_id, region, data_usage, call_duration, usage_spike_flag, timestamp.
+
+5. Customer Satisfaction Analysis
+Problem Statement: Evaluate customer satisfaction based on their service usage, complaints, and call quality data. Business Queries:
+
+Analyze the relationship between complaints and customer satisfaction scores.
+Identify users with a drop in satisfaction score over the last 3 months.
+Determine which regions have the lowest average satisfaction scores.
+Correlate network issues with changes in customer satisfaction.
+Predict satisfaction scores based on service usage and network performance.
+Dataset: A Parquet file with columns: customer_id, region, complaints, network_issues, call_quality, satisfaction_score, timestamp.
+
+6. Real-Time Data Usage Monitoring
+Problem Statement: Track and monitor real-time data usage patterns of customers to manage network load and detect anomalies. Business Queries:
+
+Identify customers with the highest data usage within the last 24 hours.
+Compare data usage patterns between peak and non-peak hours.
+Detect customers who have exceeded their data limits.
+Monitor network load per region and compare with average daily usage.
+Identify abnormal spikes in data usage across the network.
+Dataset: A Parquet file with columns: customer_id, region, data_usage, data_limit, timestamp, network_load.
+
+7. Network Outage Detection
+Problem Statement: Analyze historical network outage data to identify root causes and frequency of outages across different regions. Business Queries:
+
+Determine the regions with the highest frequency of network outages.
+Analyze the duration of outages and identify patterns (e.g., time of day, day of the week).
+Correlate outages with weather conditions or maintenance activities.
+Identify the top 3 causes of network outages.
+Monitor the time taken to resolve outages by region.
+Dataset: A Parquet file with columns: outage_id, region, outage_duration, outage_cause, weather_condition, maintenance_flag, timestamp.
+
+8. Roaming Usage Analysis
+Problem Statement: Analyze roaming data to identify usage trends and network performance when users are outside their home network. Business Queries:
+
+Identify customers with the highest roaming usage.
+Compare call drop rates for users while roaming vs. home network.
+Analyze data transfer speed for roaming users across different countries.
+Determine the average call duration while roaming.
+Correlate roaming charges with user satisfaction scores.
+Dataset: A Parquet file with columns: user_id, home_network, roaming_network, call_duration, data_usage, roaming_charges, timestamp.
+
+9. SMS Campaign Effectiveness
+Problem Statement: Measure the effectiveness of SMS marketing campaigns by analyzing customer responses and engagement rates. Business Queries:
+
+Identify the campaign with the highest response rate.
+Analyze customer engagement based on demographic data.
+Determine the time of day when customers are most likely to respond to SMS campaigns.
+Compare the effectiveness of different message types (e.g., promotions vs. service alerts).
+Predict future engagement rates based on past campaign data.
+Dataset: A Parquet file with columns: campaign_id, customer_id, message_type, response_flag, timestamp, engagement_score, customer_demographics.
+
+10. Billing Discrepancy Detection
+Problem Statement: Detect discrepancies in customer billing data to prevent overcharges and ensure accurate invoicing. Business Queries:
+
+Identify customers with billing discrepancies above a specified threshold.
+Correlate discrepancies with usage data (e.g., call duration, data usage).
+Analyze regions with the highest frequency of billing discrepancies.
+Determine the average time taken to resolve billing issues.
+Monitor the impact of billing issues on customer churn.
+Dataset: A Parquet file with columns: customer_id, billing_amount, usage_amount, discrepancy_flag, discrepancy_amount, resolution_time, timestamp.
+
