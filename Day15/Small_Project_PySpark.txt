@@ -1,0 +1,74 @@
+Project 1: Customer Data Usage and Billing Analytics (Telecommunications)
+Problem Statement: Telecom companies face the challenge of managing customer data usage and billing. The objective is to analyze customer data consumption patterns, identify segments with excessive data usage, and predict potential billing discrepancies. This analysis will help telecom providers optimize their data plans, minimize billing issues, and enhance customer satisfaction.
+
+Data Generation:
+
+Use Google Colab to generate periodic customer data usage and billing records, including fields like customer ID, data usage (GB), plan type, billing amount, extra charges, and geographical location.
+Run the cron job every 30 minutes to simulate real-time data updates.
+ETL Process:
+
+Extract: Fetch the generated data usage and billing details.
+Transform:
+Clean the data by filling missing values, removing duplicates, and correcting data types.
+Combine usage and billing data to calculate derived metrics like "Total Monthly Charges."
+Filter customers based on certain criteria like plan type or high data usage.
+Load: Store the final transformed dataset in Parquet format for further analysis.
+Business Questions (with problem statements):
+
+Problem: What is the typical monthly data usage per customer?
+Question: What is the average data usage per customer per month?
+Problem: How does data consumption vary by geography?
+Question: How does data usage vary by region?
+Problem: Customers are often overcharged due to excess data usage.
+Question: Which data plans have the highest overcharges due to extra data usage?
+Problem: The company needs to monitor revenue from overcharges.
+Question: What is the total revenue generated from data overcharges in the last quarter?
+Problem: Certain customer segments tend to overuse their data plans.
+Question: Which customer segments (age or plan type) use more data?
+Problem: There is a hypothesis that customers use more data on weekends.
+Question: How does weekend data usage compare to weekdays?
+Problem: Many customers exceed their data limits, leading to billing discrepancies.
+Question: What percentage of customers exceed their data limit monthly?
+Problem: Data usage patterns might vary based on the time of day.
+Question: How does data usage change based on the time of day?
+Problem: The billing system occasionally shows discrepancies.
+Question: Are there any noticeable trends in billing discrepancies?
+Problem: Customer profiles can indicate the likelihood of upgrading to a higher data plan.
+Question: Which customer profiles are more likely to upgrade their data plan?
+Project 2: Network Performance Monitoring and Outage Detection (Telecommunications)
+Problem Statement: Telecom companies experience frequent network performance issues, including call drops, signal strength fluctuations, and data transfer speed variations. The goal is to identify regions with poor network performance, analyze signal strength trends, and detect potential outages early. This analysis helps improve network stability and enhance user experience.
+
+Data Generation:
+
+Google Colab will generate network performance metrics (e.g., signal strength, call drops, data transfer rates) for different regions at 15-minute intervals.
+Use cron jobs to simulate continuous monitoring of network performance.
+ETL Process:
+
+Extract: Collect the generated network performance metrics periodically.
+Transform:
+Handle missing values, and clean the data for any errors.
+Aggregate data at the region and time-interval levels to derive metrics like "Average Signal Strength."
+Identify network outages based on pre-defined thresholds (e.g., signal strength below a certain value).
+Load: Save the cleaned and aggregated data in Parquet format for analysis.
+Business Questions (with problem statements):
+
+Problem: Some regions experience frequent network outages, leading to poor customer experience.
+Question: Which regions experience the most frequent network outages?
+Problem: Signal strength is inconsistent across locations.
+Question: How does average signal strength vary across different locations?
+Problem: Peak hours often cause an increase in call drops.
+Question: What is the trend in call drop rates during peak hours?
+Problem: Urban and rural areas may experience different levels of network performance.
+Question: How does network performance differ between urban and rural areas?
+Problem: Network outages that last longer than 10 minutes are more disruptive to customers.
+Question: What percentage of network outages last more than 10 minutes?
+Problem: Customer complaints often correlate with network performance issues.
+Question: Which regions have the highest customer complaints related to network issues?
+Problem: Quick resolution of outages improves customer satisfaction.
+Question: What is the average time taken to restore network outages?
+Problem: There may be recurring signal strength drops during specific time intervals.
+Question: Are there any recurring patterns in signal strength drops during specific time periods?
+Problem: Data transfer speed often fluctuates throughout the day.
+Question: How does data transfer speed fluctuate over the course of a day?
+Problem: Customer satisfaction depends on network performance.
+Question: How do network performance metrics correlate with customer satisfaction scores?
