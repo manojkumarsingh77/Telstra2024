@@ -1,6 +1,6 @@
 import random
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 import csv
 
 # Define the output file (CSV format)
@@ -10,8 +10,10 @@ output_file = "real_time_telecom_data.csv"
 columns = [
     "CustomerID", "Area", "CallID", "TotalCalls", "DroppedCalls", "DataUsageMB",
     "RoamingCharges", "Complaints", "PaymentDelay", "PlanID", "SatisfactionScore",
-    "TransactionDate", "Region", "SMSID", "Response", "SubscriptionDate",
-    "NetworkType", "SuccessfulCalls", "CallDuration", "RoamingCountry", "Revenue"
+    "TransactionDate", "Region", "SMSID", "Response", "SubscriptionDate", "NetworkType",
+    "SuccessfulCalls", "CallDuration", "RoamingCountry", "Revenue", "CallSuccess",
+    "DataLimitMB", "PlanName", "CustomerTier", "DownloadSpeed", "Service", "BillingAmount",
+    "ServiceCharge", "Outages"
 ]
 
 # Function to generate random telecom data
@@ -27,22 +29,31 @@ def generate_data():
     payment_delay = random.randint(0, 60)
     plan_id = random.randint(1, 5)
     satisfaction_score = random.uniform(1, 5)
-    transaction_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    transaction_date = (datetime.now() - timedelta(days=random.randint(0, 30))).strftime("%Y-%m-%d %H:%M:%S")
     region = random.choice(["North", "South", "East", "West"])
     sms_id = random.randint(1000, 9999)
     response = random.choice(["Yes", "No"])
-    subscription_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    subscription_date = (datetime.now() - timedelta(days=random.randint(0, 365))).strftime("%Y-%m-%d %H:%M:%S")
     network_type = random.choice(["4G", "5G", "3G"])
-    successful_calls = random.randint(10, 100)
+    successful_calls = random.randint(10, total_calls)
     call_duration = random.uniform(1, 30)
     roaming_country = random.choice(["USA", "Canada", "UK", "Australia"])
     revenue = random.uniform(10, 200)
+    call_success = "Success" if dropped_calls == 0 else "Failed"
+    data_limit_mb = random.uniform(1, 10)
+    plan_name = random.choice(["Basic", "Standard", "Premium", "Unlimited"])
+    customer_tier = random.choice(["Bronze", "Silver", "Gold", "Platinum"])
+    download_speed = random.uniform(1.0, 100.0)
+    service = random.choice(["Mobile", "Broadband", "TV", "Home Phone"])
+    billing_amount = random.uniform(20, 200)
+    service_charge = random.uniform(20, 200)
+    outages = random.randint(0, 10)
     
     return [
-        customer_id, area, call_id, total_calls, dropped_calls, data_usage_mb,
-        roaming_charges, complaints, payment_delay, plan_id, satisfaction_score,
-        transaction_date, region, sms_id, response, subscription_date, network_type,
-        successful_calls, call_duration, roaming_country, revenue
+        customer_id, area, call_id, total_calls, dropped_calls, data_usage_mb, roaming_charges, complaints, 
+        payment_delay, plan_id, satisfaction_score, transaction_date, region, sms_id, response, subscription_date, 
+        network_type, successful_calls, call_duration, roaming_country, revenue, call_success, data_limit_mb, plan_name,
+        customer_tier, download_speed, service, billing_amount, service_charge, outages
     ]
 
 # Function to write data to CSV file
