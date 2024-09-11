@@ -1,0 +1,95 @@
+Exercise 1: Customer Call Data Analysis
+Objective: Generate call data, store it in DBFS, and calculate the total call duration for each customer using Spark SQL.
+
+Steps:
+Generate a DataFrame with the following schema:
+customer_id (INT)
+call_duration (FLOAT)
+call_date (DATE)
+Save the DataFrame as a Parquet file in DBFS.
+Use Spark SQL to calculate the total call duration for each customer.
+
+
+
+Exercise 2: Dropped Call Detection
+Objective: Detect the number of dropped calls per customer using Spark SQL.
+
+Steps:
+Generate a DataFrame with the following schema:
+customer_id (INT)
+call_dropped (BOOLEAN)
+call_duration (FLOAT)
+Save the data in DBFS as a Parquet file.
+Use Spark SQL to count how many calls were dropped per customer.
+
+
+Exercise 3: Average Call Duration by Month
+Objective: Calculate the average call duration by month.
+
+Steps:
+Generate a DataFrame with the following schema:
+customer_id (INT)
+call_duration (FLOAT)
+call_date (DATE)
+Save the data in DBFS.
+Use Spark SQL to calculate the average call duration per month.
+
+
+Exercise 4: Billing Discrepancy Detection
+Objective: Identify customers with billing discrepancies.
+
+Steps:
+Generate a DataFrame with call charges and customer IDs.
+Simulate discrepancies by adding random extra charges.
+Use Spark SQL to detect customers with discrepancies.
+
+Exercise 5: SMS Campaign Effectiveness
+Objective: Analyze the effectiveness of SMS campaigns by calculating the response rate.
+
+Steps:
+Generate a DataFrame with SMS campaign data.
+Save the data to DBFS.
+Use Spark SQL to calculate the response rate for each campaign.
+
+
+Exercise 6: Network Outage Impact Analysis
+Objective: Analyze the impact of network outages on customer calls.
+
+Steps:
+Generate a DataFrame with customer call data and a flag for network outages.
+Save the data to DBFS.
+Use Spark SQL to analyze the number of calls affected by outages.
+
+
+Exercise 7: Customer Satisfaction Analysis
+Objective: Analyze customer satisfaction scores from call data.
+
+Steps:
+Generate a DataFrame with customer satisfaction scores.
+Save the data to DBFS.
+Use Spark SQL to calculate the average satisfaction score per customer.
+
+Exercise 8: Fraud Detection in SIM Usage
+Objective: Detect potential fraud based on unusual SIM usage patterns.
+
+Steps:
+Generate a DataFrame with customer SIM usage.
+Save the data to DBFS.
+Use Spark SQL to identify customers with abnormal usage.
+
+Exercise 9: Roaming Usage Analysis (Continued)
+Objective: Analyze roaming usage and calculate average roaming charges per customer.
+
+Steps:
+Generate a DataFrame with roaming charges data.
+Save the data to DBFS.
+Use Spark SQL to calculate the average roaming charge per customer.
+
+
+Exercise 10: Customer Churn Prediction
+Objective: Predict customer churn based on usage patterns and satisfaction scores.
+
+Steps:
+Generate a DataFrame with customer data including call_duration, call_dropped, satisfaction_score, and churn (1 for churned, 0 for not churned).
+Save the data to DBFS.
+Use Spark SQL to analyze the correlation between churn and usage/satisfaction patterns.
