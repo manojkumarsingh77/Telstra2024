@@ -1,0 +1,15 @@
+Use Case: Real-Time Network Performance Monitoring in a Telecom Company
+The telecom company wants to monitor its network performance in real time. You will ingest data such as call durations, data usage, and network latency from Kafka using Spark Streaming. 
+Once the data is ingested, you will filter and aggregate the results to gain insights such as:
+
+1. Average network latency
+2. Total data usage
+3. Call duration patterns by region
+4. Finally, the results will be visualized using Matplotlib.
+
+Prerequisites:
+1. Kafka and Zookeeper running.
+2. Spark with PySpark installed.
+3. Kafka Python library for producing and consuming data.
+4. Matplotlib for visualizations.
+5. Jupyter Notebook or any IDE supporting Python.
