@@ -29,34 +29,119 @@ Activity 2: Load Data into Bronze Layer
 
 Objective: Load the raw telecom events data into the Bronze Layer.
 
+Action Points:
+Load the dataset telecom_events.csv into a DataFrame.
+python
+Copy code
+# Load raw data into a DataFrame
+bronze_df = spark.read.option("header", "true").option("inferSchema", "true").csv("/dbfs/mnt/data/telecom_events.csv")
+Save the data as a Delta table for the Bronze Layer.
+python
+Copy code
+# Save data as Delta table for Bronze layer
+bronze_df.write.format("delta").mode("overwrite").save("/delta/bronze/telecom_events")
+Create a table in the Bronze Layer.
+sql
+Copy code
+CREATE TABLE IF NOT EXISTS bronze_telecom_events
+USING DELTA
+LOCATION '/delta/bronze/telecom_events';
 Activity 3: Explore and Query Bronze Layer
 
 Objective: Query the raw data in the Bronze Layer.
-
-
+Action Points:
+Write a simple SQL query to retrieve data from the Bronze Layer.
+sql
+Copy code
+SELECT * FROM bronze_telecom_events;
+Analyze the structure and raw data characteristics (e.g., nulls, duplicates).
 Activity 4: Clean and Transform Data for Silver Layer
 
 Objective: Clean the raw data and prepare it for the Silver Layer.
-
+Action Points:
+Clean the data by removing nulls and duplicates, and filter records where signal_strength > 1.
+python
+Copy code
+# Clean and filter data for Silver Layer
+silver_df = bronze_df.dropna().dropDuplicates().filter(bronze_df.signal_strength > 1)
+Save the cleaned data into the Silver Layer.
+python
+Copy code
+# Save the cleaned data to the Silver Layer
+silver_df.write.format("delta").mode("overwrite").save("/delta/silver/telecom_events")
+Create a table in the Silver Layer.
+sql
+Copy code
+CREATE TABLE IF NOT EXISTS silver_telecom_events
+USING DELTA
+LOCATION '/delta/silver/telecom_events';
 Activity 5: Explore and Query Silver Layer
 
 Objective: Query and analyze the cleaned data in the Silver Layer.
-
+Action Points:
+Write a query to retrieve data from the Silver Layer.
+sql
+Copy code
+SELECT * FROM silver_telecom_events;
+Verify that the cleaning operation removed nulls, duplicates, and filtered low signal strength records.
 Activity 6: Aggregate Data for Gold Layer
 
 Objective: Aggregate the data and prepare it for the Gold Layer.
-
+Action Points:
+Group the data by user_id and calculate the total call duration and data usage.
+python
+Copy code
+# Aggregate data for Gold Layer
+gold_df = silver_df.groupBy("user_id").agg({"call_duration": "sum", "data_usage": "sum"})
+# Rename columns
+gold_df = gold_df.withColumnRenamed("sum(call_duration)", "total_call_duration").withColumnRenamed("sum(data_usage)", "total_data_usage")
+Save the aggregated data into the Gold Layer.
+python
+Copy code
+# Save the aggregated data to the Gold Layer
+gold_df.write.format("delta").mode("overwrite").save("/delta/gold/telecom_user_summary")
+Create a table in the Gold Layer.
+sql
+Copy code
+CREATE TABLE IF NOT EXISTS gold_telecom_user_summary
+USING DELTA
+LOCATION '/delta/gold/telecom_user_summary';
 Activity 7: Explore and Query Gold Layer
 
 Objective: Query the aggregated data in the Gold Layer.
-
+Action Points:
+Write a query to retrieve data from the Gold Layer.
+sql
+Copy code
+SELECT * FROM gold_telecom_user_summary;
+Analyze the aggregated results, focusing on total call duration and data usage per user.
 Activity 8: Time Travel in Delta Lake
 
 Objective: Utilize Delta Lake’s time travel feature to query older versions of data.
-
+Action Points:
+Query the data using the version number (e.g., the first version of the Silver Layer).
+python
+Copy code
+# Time travel to version 0 of the Silver Layer
+silver_version_0 = spark.read.format("delta").option("versionAsOf", 0).load("/delta/silver/telecom_events")
+silver_version_0.show()
+Query the data using a timestamp.
+sql
+Copy code
+SELECT * FROM delta.`/delta/silver/telecom_events`
+TIMESTAMP AS OF '2024-09-13 10:00:00';
 Activity 9: Optimize the Delta Tables
 
 Objective: Optimize the performance of Delta tables using OPTIMIZE and ZORDER commands.
+Action Points:
+Use the OPTIMIZE command to compact small files and improve query performance.
+sql
+Copy code
+OPTIMIZE delta.`/delta/gold/telecom_user_summary`;
+Optionally, use ZORDER to optimize queries on specific columns (e.g., user_id).
+sql
+Copy code
+OPTIMIZE delta.`/delta/gold/telecom_user_summary` ZORDER BY (user_id);
 
 Summary of Activities
 Set up Databricks and load the dataset.
