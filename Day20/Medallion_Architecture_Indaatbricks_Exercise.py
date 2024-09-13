@@ -24,7 +24,7 @@ Action Points:
 Open your Databricks workspace.
 Set up a new notebook in Databricks.
 Attach the notebook to a cluster.
-Download the dataset from the above link and upload it to DBFS (Databricks File System).
+
 Activity 2: Load Data into Bronze Layer
 
 Objective: Load the raw telecom events data into the Bronze Layer.
