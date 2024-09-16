@@ -1,0 +1,25 @@
+Business Scenario: Telecom Network Performance and Customer Satisfaction Dashboard
+Scenario Overview: A telecom company is facing challenges with real-time monitoring of network performance and customer satisfaction. The management needs a dashboard in Power BI to monitor critical KPIs such as signal strength, call drop rates, data usage, and customer satisfaction scores across various regions. This dashboard will help the operations team identify regions with network issues and act promptly to improve the service quality.
+
+The company also wants to track customer satisfaction in near real-time based on network performance metrics such as signal strength and call drop rates. Additionally, it wants to monitor data usage trends to optimize bandwidth allocation.
+
+Business Requirements for the Power BI Report:
+Network Performance Overview:
+The dashboard must show the overall network performance across different cities and regions. It should visualize the average signal strength, call drop rates, and data usage metrics.
+Real-Time Signal Strength Monitoring:
+A real-time line chart to display signal strength trends over time for different regions, updated dynamically as new data comes in.
+Customer Satisfaction Analysis:
+Display customer satisfaction scores based on surveys and network performance (e.g., signal strength, call drops). Satisfaction scores should be correlated with network KPIs.
+Data Usage Trends:
+A section of the report to display data usage trends across regions and towers to help with bandwidth allocation. A line chart that compares current vs. historical data usage.
+Network Outage Alerts:
+Display regions where network outages or significant drops in signal strength are detected in real-time. This would help the operations team take immediate action.
+Churn Prediction Based on Network Performance:
+A churn prediction section that uses KPIs like call drops and poor signal strength to highlight customers at risk of churning, giving the operations team insights into retention strategies.
+Power BI Dashboard Structure:
+Network Performance Overview (Average Signal Strength, Call Drops, Data Usage) – Bar charts by regions or cities.
+Real-Time Signal Strength Trends – Line chart to display signal strength trends over time for different regions.
+Customer Satisfaction – Gauge chart for customer satisfaction correlated with network performance.
+Data Usage Trends – Line chart comparing current and historical usage trends.
+Network Outages and Alerts – Heatmap showing regions with network issues.
+Churn Prediction Dashboard – Display KPIs and customer churn insights.
