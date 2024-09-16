@@ -66,7 +66,7 @@ You can configure the interval (interval_seconds) to your preferred time, depend
 Steps to Integrate Python Data with Power BI:
 Run the Python script to continuously generate telecom data.
 Import the CSV file into Power BI:
-Open Power BI Desktop.
+Open Power BI in Fabric.
 Click Get Data > Text/CSV and select the generated telecom_data.csv file.
 Click Load to bring the data into Power BI.
 Enable Auto Refresh in Power BI:
