@@ -1,1 +1,1 @@
-
+https://medium.com/@sdarunkumar1987/real-time-data-streaming-with-spark-structured-streaming-in-azure-databricks-4d4bd7e31853
