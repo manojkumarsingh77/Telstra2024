@@ -1,0 +1,49 @@
+Understanding Containers and Docker
+Containers:
+
+Containers are lightweight, portable, and consistent environments where you can run and manage applications. They package everything needed to run an application, including the code, runtime, libraries, and configurations, in an isolated environment. This makes it easier to develop, test, and deploy applications across different environments, such as development, testing, and production, without worrying about environmental inconsistencies.
+
+Docker:
+
+Docker is a popular platform that automates the deployment of applications inside containers. It provides the tools and services for creating, managing, and running containers. Docker enables developers to package applications and their dependencies into a container, ensuring consistency across all stages of development and production.
+
+Creation of Containers on Azure Cloud
+Step-by-Step Guide to Creating Containers in Azure and Deploying Data Engineering Applications:
+
+Install Docker on Your Local System:
+Install Docker Desktop on your machine (Windows, macOS, or Linux).
+Set Up an Azure Account:
+If you don't have an Azure account, sign up for Azure Free Account.
+Create a Container Registry on Azure:
+Go to the Azure portal.
+Search for Container Registry and click Create.
+Fill in the required details like resource group, registry name, location, etc.
+Once created, this registry will serve as the private repository for storing your Docker images.
+Push Docker Image to Azure Container Registry:
+Build your Docker image using the docker build command.
+bash
+Copy code
+docker build -t <your-container-registry-name>.azurecr.io/<your-image-name>:v1 .
+Login to Azure Container Registry:
+bash
+Copy code
+az acr login --name <your-container-registry-name>
+Push your Docker image to the Azure registry:
+bash
+Copy code
+docker push <your-container-registry-name>.azurecr.io/<your-image-name>:v1
+Deploy the Container to Azure:
+You can deploy the container using Azure Container Instances (ACI) or Azure Kubernetes Service (AKS).
+Using Azure CLI to create an instance of ACI:
+bash
+Copy code
+az container create \
+--resource-group <your-resource-group> \
+--name <your-container-name> \
+--image <your-container-registry-name>.azurecr.io/<your-image-name>:v1 \
+--registry-login-server <your-container-registry-name>.azurecr.io \
+--registry-username <registry-username> \
+--registry-password <registry-password> \
+--dns-name-label <unique-dns-name> \
+--ports 80
+Once the container is deployed, you can access the app via the generated DNS.
