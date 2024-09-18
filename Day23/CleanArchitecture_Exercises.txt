@@ -65,7 +65,7 @@ Propose a microservice-based architecture that supports regional monitoring serv
 
 
 Expected Deliverables:
-Architecture Diagram: Participants should provide a high-level architecture diagram for each scenario, showing how they have implemented the concepts of domain separation, CQRS, Event Sourcing, and microservices.
-Event Flow: A flow diagram showing how events are propagated through the system (e.g., a customer complaint, network metric, or performance alert).
-Service Definitions: A brief description of each microservice, its role, and how it interacts with other services.
-CQRS and Event Sourcing: Detailed explanations of how CQRS and event sourcing are implemented, including potential technologies (e.g., Kafka for events, EventStore for sourcing).
+1. Architecture Diagram: Participants should provide a high-level architecture diagram for each scenario, showing how they have implemented the concepts of domain separation, CQRS, Event Sourcing, and microservices.
+2. Event Flow: A flow diagram showing how events are propagated through the system (e.g., a customer complaint, network metric, or performance alert).
+3. Service Definitions: A brief description of each microservice, its role, and how it interacts with other services.
+4. CQRS and Event Sourcing: Detailed explanations of how CQRS and event sourcing are implemented, including potential technologies (e.g., Kafka for events, EventStore for sourcing).
