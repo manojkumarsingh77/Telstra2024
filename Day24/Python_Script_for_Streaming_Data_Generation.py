@@ -1,88 +1,83 @@
 !pip install kafka-python pandas
 
 
-
-
 import random
+from datetime import datetime
 import time
 from kafka import KafkaProducer
 import json
-import pandas as pd
-from datetime import datetime
+import uuid
 
-# Kafka Producer configuration
-producer = KafkaProducer(
-    bootstrap_servers=['<your-public-ip>:9092'],  # Replace with your Kafka broker's public IP
-    value_serializer=lambda v: json.dumps(v).encode('utf-8')
-)
-
-# List of customer IDs (in real life, you would pull this from a database)
-customers = [
-    {'CustomerID': 'b019d218-4f18-4ea1-8c15-93f72b05df72', 'DeviceID': 1001},
-    {'CustomerID': '377ddade-8e97-47b6-8e58-547ef7a8c50a', 'DeviceID': 1002},
-    {'CustomerID': 'a6c49b54-6b14-46cf-955b-42f4b8e6bf7d', 'DeviceID': 1003},
-]
-
-# Function to generate network performance data with variability
-def generate_network_performance_data(customer):
+# Function to generate random network performance data
+def generate_network_performance_data():
+    device_id = f"Router-{random.randint(1, 10)}"  # Automatically generate a random DeviceID (Router-1 to Router-10)
+    customer_id = str(uuid.uuid4())  # Generate a random unique CustomerID
+    
     signal_strength = random.uniform(50, 100)
     call_drop_rate = random.uniform(0, 5)
     data_transfer_speed = random.uniform(10, 100)
     
-    # Add variability: If signal strength is low, reduce data transfer speed and increase call drop rate
+    # Correlate lower signal strength with higher call drop rates and slower data speeds
     if signal_strength < 70:
         data_transfer_speed -= random.uniform(5, 15)
         call_drop_rate += random.uniform(1, 3)
-
-    # Ensure values are within realistic ranges
+    
+    # Ensure valid data range
     call_drop_rate = max(min(call_drop_rate, 10), 0)
     data_transfer_speed = max(data_transfer_speed, 5)
     
     data = {
-        'DeviceID': customer['DeviceID'],
-        'CustomerID': customer['CustomerID'],
+        'DeviceID': device_id,
+        'CustomerID': customer_id,
         'Timestamp': datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        'SignalStrength': round(signal_strength, 2),  # Signal strength in dBm
-        'CallDropRate': round(call_drop_rate, 2),  # Call drop rate percentage
-        'DataTransferSpeed': round(data_transfer_speed, 2)  # Data transfer speed in Mbps
+        'SignalStrength': round(signal_strength, 2),
+        'CallDropRate': round(call_drop_rate, 2),
+        'DataTransferSpeed': round(data_transfer_speed, 2)
     }
     return data
 
-# Function to generate customer complaints with correlation to network performance
-def generate_complaint_data(customer, network_data):
-    # Increase likelihood of complaints when signal strength is low or call drop rate is high
-    complaint_probability = (5 - network_data['SignalStrength'] / 20) + (network_data['CallDropRate'] / 2)
-    if random.random() < min(complaint_probability, 0.8):  # Complaints are more likely when network is poor
+# Function to generate random customer complaints data
+def generate_complaint_data(network_data):
+    customer_id = network_data['CustomerID']
+    
+    # Increased chance of complaints if signal strength is low or call drop rate is high
+    complaint_probability = (70 - network_data['SignalStrength']) / 100 + network_data['CallDropRate'] / 10
+    if random.random() < complaint_probability:
         data = {
-            'CustomerID': customer['CustomerID'],
+            'CustomerID': customer_id,
             'Timestamp': datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             'ComplaintType': random.choice(['Network Issue', 'Billing Dispute', 'Technical Support']),
             'ResolutionTime': random.randint(1, 5),  # Time in hours to resolve the complaint
-            'SatisfactionRating': random.randint(1, 5)  # Satisfaction rating from 1 to 5
+            'SatisfactionRating': random.randint(1, 5)  # Rating from 1 to 5
         }
         return data
-    else:
-        return None
+    return None
+
+# Kafka producer setup
+producer = KafkaProducer(
+    bootstrap_servers='localhost:9092',  # Update with your Kafka server details
+    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+)
 
 # Function to send data to Kafka topic
 def send_data_to_kafka():
     while True:
-        for customer in customers:
-            # Generate network performance data
-            network_data = generate_network_performance_data(customer)
-            print(f"Sending network performance data: {network_data}")
-            producer.send('test1', value=network_data)
-            
-            # Generate correlated customer complaints
-            complaint_data = generate_complaint_data(customer, network_data)
-            if complaint_data:
-                print(f"Sending complaint data: {complaint_data}")
-                producer.send('test1', value=complaint_data)
-            
-            # Make sure Kafka sends the data immediately
-            producer.flush()
+        # Generate and send network performance data
+        network_data = generate_network_performance_data()
+        print(f"Sending network performance data: {network_data}")
+        producer.send('network_performance', value=network_data)
         
-        time.sleep(5)  # Sleep for 5 seconds before sending the next batch of data
+        # Generate and send customer complaints based on network performance
+        complaint_data = generate_complaint_data(network_data)
+        if complaint_data:
+            print(f"Sending complaint data: {complaint_data}")
+            producer.send('customer_complaints', value=complaint_data)
+        
+        producer.flush()  # Ensure all messages are sent
+        
+        time.sleep(10)  # Sleep for 10 seconds before sending the next batch of data
 
-# Start generating and sending streaming data to Kafka
-send_data_to_kafka()
+# Start generating streaming data
+if __name__ == "__main__":
+    send_data_to_kafka()
+
